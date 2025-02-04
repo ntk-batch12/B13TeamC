@@ -10,9 +10,11 @@ public class ADemo {
 
 	public void add() {
 		System.out.println(1 + 2);
+
 		int favNum = 11;
 		int zipCode = 22;
 		char gender = 'M';
+
 	}
 
 	public void divide() {
