@@ -17,6 +17,7 @@ public class ADemo {
 
 	public void divide() {
 		System.out.println(2 / 1);
+		System.out.println("TEST");
 	}
 
 }
