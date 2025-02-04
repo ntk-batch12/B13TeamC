@@ -13,5 +13,10 @@ public class ADemo {
 	public void divide() {
 		System.out.println(2 / 1);
 	}
+	
+	
+	public void getData() {
+		System.out.println("Test");
+	}
 
 }
