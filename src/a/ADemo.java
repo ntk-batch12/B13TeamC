@@ -4,6 +4,8 @@ public class ADemo {
 
 	public static void main(String[] args) {
 		System.out.println("Branch Dev: XYZ");
+		String firstName = "John";
+		String lastName = "Cena";
 	}
 
 	public void add() {
