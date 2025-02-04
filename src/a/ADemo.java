@@ -10,6 +10,8 @@ public class ADemo {
 
 	public void add() {
 		System.out.println(1 + 2);
+		String country = "USA";
+		String capital = "DC";
 	}
 
 	public void divide() {
