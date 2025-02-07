@@ -6,6 +6,10 @@ public class ADemo {
 		System.out.println("Branch Dev: XYZ");
 		int id = 123;
 		boolean isCitizen = true;
+
+		int age = 10;
+		int count = 20;
+		int num = 30;
 	}
 
 	public void add() {
