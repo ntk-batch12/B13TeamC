@@ -14,6 +14,10 @@ public class ADemo {
 		int favNum = 11;
 		int zipCode = 22;
 		char gender = 'M';
+		
+		if(favNum == zipCode) {
+			System.out.println("Equals");
+		}
 
 	}
 
