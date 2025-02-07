@@ -7,6 +7,7 @@ public class BDemo {
 		String firstName  = "JOhn";
 		String lastName ="Cena";
 		double price = 33.333;
+
 	}
 
 }
