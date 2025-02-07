@@ -26,6 +26,9 @@ public class ADemo {
 		System.out.println("TEST");
 		System.out.println("TEST");
 		System.out.println("TEST");
+		
+		int a = 11;
+		int   b= 22;
 	}
 
 }
