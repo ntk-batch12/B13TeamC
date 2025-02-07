@@ -19,6 +19,10 @@ public class ADemo {
 			System.out.println("Equals");
 		}
 
+		System.out.println(favNum+zipCode);
+		int a = 1111;
+		int b = 2222;
+
 	}
 
 	public void divide() {
