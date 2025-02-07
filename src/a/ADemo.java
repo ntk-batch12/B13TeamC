@@ -6,6 +6,10 @@ public class ADemo {
 		System.out.println("Branch Dev: XYZ");
 		int id = 123;
 		boolean isCitizen = true;
+		
+		char gender = 'M';
+		char grade = 'A';
+		char symbol = 'T';
 	}
 
 	public void add() {
